@@ -41,6 +41,7 @@ android {
 }
 
 dependencies {
+    implementation ("androidx.lifecycle:lifecycle-livedata-ktx:2.3.1")
     implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1")
     implementation ("androidx.navigation:navigation-fragment-ktx:2.7.7")
     implementation("androidx.core:core-ktx:1.12.0")
